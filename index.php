@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-      echo 'BIENVENIDOS-----gggggg--+++++++++'
+      echo 'BIENVENIDOS--+++++---ggggggllll--+++++++++'
         ?>
     </body>
 </html>
